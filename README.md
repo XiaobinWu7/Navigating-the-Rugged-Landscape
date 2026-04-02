@@ -32,3 +32,19 @@ The trained models used in our experiments can be downloaded from the following 
 - **Trained models:** [Google Drive](https://drive.google.com/drive/folders/1ahpl0_y05t4IjsKT1Gk8t4WR6rha8yD1?usp=drive_link)
 
 After downloading, please place the checkpoints in the `log/` directory.
+
+## Main Arguments
+
+- `--strategy`: attack strategy.  
+  - `Default`: the baseline attack method.  
+  - `GGS_CGC_NGU`: the proposed framework.
+
+- `--dataset`: dataset used for evaluation.  
+  - `ModelNet`: ModelNet40 dataset.  
+  - `ShapeNetPart`: ShapeNet Part dataset.
+
+- `--log_dir`: victim model / checkpoint directory.  
+  - `pointnet`: PointNet  
+  - `dgcnn`: DGCNN  
+  - `pointnet2_msg`: PointNet++  
+  - `curvenet_cls`: CurveNet
