@@ -17,3 +17,18 @@ Our method consists of three key components:
 
 The proposed framework can be integrated into existing gradient-based 3D adversarial attacks to improve adversarial imperceptibility.
 
+## Datasets
+
+The test dataset used in our experiments can be downloaded from the following link:
+
+- **Test dataset:** [Google Drive](https://drive.google.com/drive/folders/1NKOletCy8dsdLRTS21xXdvSJjo_F6MOZ?usp=drive_link)
+
+After downloading, please place the dataset files in the `data/` directory.
+
+## Trained Models
+
+The trained models used in our experiments can be downloaded from the following link:
+
+- **Trained models:** [Google Drive](https://drive.google.com/drive/folders/1ahpl0_y05t4IjsKT1Gk8t4WR6rha8yD1?usp=drive_link)
+
+After downloading, please place the checkpoints in the `log/` directory.
