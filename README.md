@@ -4,7 +4,7 @@ This repository contains the official implementation of our paper:
 
 **Navigating the Rugged Landscape: A Robust Gradient-Guided Framework for Imperceptible 3D Adversarial Point Clouds**
 
-> 📢 **Note:** To facilitate the peer-review process, the complete source code has been provided in the supplementary materials of our submission. This repository will be fully open-sourced upon the acceptance of the paper.
+> 📢 **Note:** The complete source code, pre-trained models, and dataset configurations are currently under organization. This repository will be fully open-sourced upon the acceptance of our paper.
 > 
 ## Overview
 
