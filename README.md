@@ -1,10 +1,11 @@
-This is the project page of our paper:
 # Navigating the Rugged Landscape: A Robust Gradient-Guided Framework for Imperceptible 3D Adversarial Point Clouds
 
 This repository contains the official implementation of our paper:
 
 **Navigating the Rugged Landscape: A Robust Gradient-Guided Framework for Imperceptible 3D Adversarial Point Clouds**
 
+> 📢 **Note:** To facilitate the peer-review process, the complete source code has been provided in the supplementary materials of our submission. This repository will be fully open-sourced upon the acceptance of the paper.
+> 
 ## Overview
 
 We propose a robust gradient-guided framework for generating imperceptible adversarial examples on 3D point clouds. The framework is designed to mitigate gradient instability and myopic updates under rugged 3D loss landscapes.
