@@ -33,6 +33,22 @@ The trained models used in our experiments can be downloaded from the following 
 
 After downloading, please place the checkpoints in the `log/` directory.
 
+## Usage
+
+Run any of the following attack scripts:
+
+- `main_attack_3dADV.py`
+- `main_attack_knn.py`
+- `main_attack_GeoA3.py`
+- `main_attack_AOF.py`
+
+The general command format is:
+python main_attack_xxx.py --strategy xxx --dataset xxx --log_dir xxx
+
+## Examples
+python main_attack_knn.py --strategy Default --dataset ModelNet --log_dir dgcnn
+python main_attack_3dADV.py --strategy GGS_CGC_NGU --dataset ShapeNetPart --log_dir curvenet_cls
+
 ## Main Arguments
 
 - `--strategy`: attack strategy.  
