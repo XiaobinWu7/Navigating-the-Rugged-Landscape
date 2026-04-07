@@ -48,3 +48,14 @@ After downloading, please place the checkpoints in the `log/` directory.
   - `dgcnn`: DGCNN  
   - `pointnet2_msg`: PointNet++  
   - `curvenet_cls`: CurveNet
+
+ 
+## Acknowledgments
+
+This repository was developed with reference to the following open-source projects:
+
+- SS-attack: https://github.com/cuge1995/SS-attack
+- LLTA: https://github.com/fangshuman/LLTA
+- GeoA3: https://github.com/Gorilla-Lab-SCUT/GeoA3
+
+We thank the original authors for making their code publicly available.
