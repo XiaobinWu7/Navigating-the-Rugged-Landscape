@@ -58,4 +58,7 @@ This repository was developed with reference to the following open-source projec
 - LLTA: https://github.com/fangshuman/LLTA
 - GeoA3: https://github.com/Gorilla-Lab-SCUT/GeoA3
 
-We thank the original authors for making their code publicly available.
+- [SS-attack](https://github.com/cuge1995/SS-attack)
+- [LLTA](https://github.com/fangshuman/LLTA)
+- [GeoA3](https://github.com/Gorilla-Lab-SCUT/GeoA3)
+
